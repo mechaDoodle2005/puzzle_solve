@@ -1,2 +1,1 @@
-conclusions
-to readme
+adding portfolio projects
